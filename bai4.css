@@ -1,0 +1,34 @@
+*{
+    width: 3;
+    padding: 0;
+}
+.backgroud{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap:5px
+}
+.item1{
+    background-color: rgb(54, 137, 233);
+    padding: 10px;
+    width: 100%;
+    color: white;
+}
+.item2{
+    background-color: green;
+    height: 300px;
+    width: 19.5%;
+    color:white
+}
+.item3{
+    background-color: red;
+    height: 300px;
+    width:79.5%;
+    color: white;
+}
+.item4{
+    background-color: violet;
+    padding: 10px;
+    width: 100%;
+    color: white
+}

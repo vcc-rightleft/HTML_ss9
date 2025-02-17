@@ -1,0 +1,18 @@
+
+.backgroud{
+    background-color: gray;
+    border: 1px solid black;
+    padding: 300px;
+}
+.backgroud .back1{
+    background-color: rgb(37, 129, 175);
+    border: 1px ;
+    padding: 20px;
+    width: 50px;
+    margin: 0 auto;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}    
